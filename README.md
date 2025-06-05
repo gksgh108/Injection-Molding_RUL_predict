@@ -24,8 +24,8 @@
 설치 방법:
 ```bash
 pip install streamlit hdbscan pickle altair
----
 ```
+---
 ## 실행 방법
 1. Jupyter Notebook으로 실행하기
 RUL_predict.ipynb 파일을 Jupyter Notebook 또는 Jupyter Lab에서 열어 순서대로 셀을 실행하며 분석 과정을 따라갈 수 있습니다. 이 방법을 통해 데이터 전처리, 모델 학습, 이상 감지 과정 등을 단계별로 상세하게 확인하고 실행할 수 있습니다.
