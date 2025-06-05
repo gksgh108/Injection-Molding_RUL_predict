@@ -27,9 +27,13 @@ pip install streamlit hdbscan pickle altair
 ```
 ---
 ## **다운로드 해야할 파일**
-github에서는 25mb이상은 업로드가 불가능하기에 mega로 필요한 파일을 업로드 [**파일 다운로드**](https://mega.nz/folder/KD4lVaID#H02o0kC66XBJBlgN0jBOWw)
+github에서는 25mb이상은 업로드가 불가능하기에 mega로 필요한 파일을 업로드 
+[**파일 다운로드**](https://mega.nz/folder/KD4lVaID#H02o0kC66XBJBlgN0jBOWw)
+
 InjectionMolding_Raw_Data.csv -> data폴더
+
 InjectionMolding_Labeled_Data.csv -> data폴더
+
 data_lot_label.pkl -> streamlit폴더
 
 ## 실행 방법
