@@ -31,11 +31,9 @@ github에서는 25mb이상은 업로드가 불가능하기에 mega로 필요한 
 
 [**파일 다운로드**](https://mega.nz/folder/KD4lVaID#H02o0kC66XBJBlgN0jBOWw)
 
-InjectionMolding_Raw_Data.csv -> data폴더
-
-InjectionMolding_Labeled_Data.csv -> data폴더
-
-data_lot_label.pkl -> streamlit폴더
+- InjectionMolding_Raw_Data.csv -> data폴더
+- InjectionMolding_Labeled_Data.csv -> data폴더
+- data_lot_label.pkl -> streamlit폴더
 
 ## 실행 방법
 1. Jupyter Notebook으로 실행하기
